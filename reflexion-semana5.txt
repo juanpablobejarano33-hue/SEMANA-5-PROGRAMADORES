@@ -1,0 +1,11 @@
+Las APIs podrían funcionar como el "celular del barrio" que conecta a todos sin necesidad 
+de que hablen directamente entre sí. Por ejemplo, si alguien reporta un bache o una fuga de 
+agua desde una app vecinal, la API recibe ese reporte, lo organiza y lo envía automáticamente 
+a un mapa comunitario visible para todxs. También se podría crear una alerta temprana: 
+si alguien detecta un peligro (como una inundación o un incendio),
+la API permite que esa alerta llegue al instante a los teléfonos del resto de la comunidad,
+sin importar si usan Android, iPhone o una computadora vieja. 
+Además, al ser un estándar abierto, cada grupo puede decidir qué información compartir
+y con quién, sin depender de redes sociales que a veces esconden los mensajes importantes. 
+Así, las APIs convierten datos sueltos en información útil, rápida y confiable.
+

@@ -1,0 +1,3 @@
+En el primer servidor se ejecuta el mensaje de bienvienida. Lo cual se traduce como / servidor activo 
+En el segundo servidor la ruta da la bienvenida a la comunidad 
+En la tercera ruta se saludo a las personas que ingresa al servidos 

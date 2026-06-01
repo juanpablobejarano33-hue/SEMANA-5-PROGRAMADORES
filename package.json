@@ -1,0 +1,24 @@
+{
+  "name": "semana-5-programadores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablobejarano33-hue/SEMANA-5-PROGRAMADORES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/juanpablobejarano33-hue/SEMANA-5-PROGRAMADORES/issues"
+  },
+  "homepage": "https://github.com/juanpablobejarano33-hue/SEMANA-5-PROGRAMADORES#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
